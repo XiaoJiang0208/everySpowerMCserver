@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.88.32.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660441470753
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660441480864
+  login: 1660436114332
+money: '149.5'
+last-account-name: gou
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 52.5
+  y: 63.0
+  z: -94.5
+  yaw: 152.84295654296875
+  pitch: 28.649951934814453
+homes:
+  home:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 52.765003046600995
+    y: 63.0
+    z: -94.37951717298452
+    yaw: 152.84295654296875
+    pitch: 28.649951934814453
+  _:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: -423.7539964837321
+    y: 63.0
+    z: 650.947621724593
+    yaw: 173.1220703125
+    pitch: 16.050371170043945
+  ___:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 1379.4992636615384
+    y: 63.0
+    z: 1664.4834270169786
+    yaw: 91.78544616699219
+    pitch: 53.099552154541016
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 64.0539337052789
+  y: 68.0
+  z: -95.5083432120361
+  yaw: -49.504974365234375
+  pitch: 19.650043487548828

@@ -1,0 +1,66 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 222.210.150.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660109885532
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660110617646
+  login: 1660099312041
+money: '0'
+last-account-name: clock_cloud
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 768.3000000119209
+  y: 60.0
+  z: 139.30000001192093
+  yaw: 84.4139404296875
+  pitch: 59.25000762939453
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 759.1259388291
+  y: 63.0
+  z: 138.35286696061584
+  yaw: -159.697265625
+  pitch: -9.000014305114746
+powertools:
+  golden_apple:
+  - m SleepingInsect 你就是歌姬吧
+homes:
+  home:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 758.5910297680741
+    y: 63.0
+    z: 131.5078914499635
+    yaw: 57.502071380615234
+    pitch: 17.850488662719727
+  pt:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 421.6858128686796
+    y: 63.0
+    z: -2188.084795803372
+    yaw: -163.52423095703125
+    pitch: 7.349689960479736
+  zzd:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 225.35911605342395
+    y: 76.0
+    z: -573.6625155743092
+    yaw: 104.84637451171875
+    pitch: 21.59996223449707

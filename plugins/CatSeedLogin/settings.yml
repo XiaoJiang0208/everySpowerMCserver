@@ -1,0 +1,18 @@
+IpRegisterCountLimit: 999999999
+IpCountLimit: 999999999
+LimitChineseID: true
+MinLengthID: 2
+MaxLengthID: 15
+BeforeLoginNoDamage: true
+ReenterInterval: 60
+AfterLoginBack: true
+CanTpSpawnLocation: true
+CommandWhiteList:
+- /(?i)l(ogin)?(\z| .*)
+- /(?i)reg(ister)?(\z| .*)
+- /(?i)resetpassword?(\z| .*)
+- /(?i)repw?(\z| .*)
+- /(?i)worldedit cui
+AutoKick: 120
+DeathStateQuitRecordLocation: true
+SpawnLocation: world:-81.0:177.0:55.0:50.0:0.0

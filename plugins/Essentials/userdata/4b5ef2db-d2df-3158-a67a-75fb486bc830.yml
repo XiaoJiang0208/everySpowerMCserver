@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 120.70.176.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660299467888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660306576714
+  login: 1660306146606
+money: '3670.0'
+last-account-name: longziyang
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -2035.300000011921
+  y: 112.0
+  z: 1322.015551321909
+  yaw: -26.10348129272461
+  pitch: 36.000030517578125
+homes:
+  home:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: -2035.512499988079
+    y: 112.0
+    z: 1321.4391977175785
+    yaw: -26.10348129272461
+    pitch: 36.000030517578125
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 183.5461685465276
+  y: 63.0
+  z: 478.7122427922342
+  yaw: -128.4046630859375
+  pitch: 48.899986267089844

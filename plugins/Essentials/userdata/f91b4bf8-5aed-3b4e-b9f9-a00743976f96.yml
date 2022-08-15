@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.213.109.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1660400595329
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660400600459
+  login: 1660398282504
+money: '-9600.0'
+last-account-name: GlossyShark
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -70.80375312393925
+  y: 135.5265540433754
+  z: 142.6847060167381
+  yaw: 166.15277099609375
+  pitch: 15.333568572998047
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 87.66764518572933
+  y: 77.0
+  z: 118.444324518286
+  yaw: 85.69556427001953
+  pitch: 22.8088436126709
+homes:
+  high:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 40.331561652889256
+    y: 307.5
+    z: -89.30666669412741
+    yaw: 1.218782901763916
+    pitch: 85.51471710205078

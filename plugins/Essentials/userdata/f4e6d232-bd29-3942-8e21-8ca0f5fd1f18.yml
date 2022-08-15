@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.161.72.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660110602052
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660112166995
+  login: 1660109275741
+money: '16609.0'
+last-account-name: EXUSIAI39
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 192.69999998807907
+  y: 62.00999999865889
+  z: 544.5674626029789
+  yaw: -86.8251953125
+  pitch: 88.5
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 176.06592888393865
+  y: 63.0
+  z: 497.7033329877355
+  yaw: 40.36151123046875
+  pitch: 16.349992752075195

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659705112685
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659762830897
+  login: 1659762550895
+money: '0'
+last-account-name: SleepingInsect
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 32.47235349829388
+  y: 63.9375
+  z: -92.216843298719
+  yaw: -89.574462890625
+  pitch: 30.299335479736328
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 1407.3091184057655
+  y: 81.29812216773877
+  z: 874.3830015669975
+  yaw: 0.659576416015625
+  pitch: 30.832273483276367

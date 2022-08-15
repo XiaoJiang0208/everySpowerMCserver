@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659508334325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659513954252
+  login: 1659506577999
+money: '0'
+last-account-name: HuanHuan1203
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -220.40917267379444
+  y: 64.17675927506424
+  z: 21.042555013083927
+  yaw: -146.8148193359375
+  pitch: 16.18472671508789
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -152.69999998807907
+  y: 50.0
+  z: -36.69999998807907
+  yaw: 171.8516845703125
+  pitch: 16.019990921020508

@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.103.33.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660411334950
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660412085583
+  login: 1660412005185
+money: '211957.6'
+last-account-name: XiaoJiang0208
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 15.82066638464912
+  y: 80.0
+  z: 90.99403401168509
+  yaw: -51.000701904296875
+  pitch: 17.549962997436523
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -8.987500011920929
+  y: 89.0
+  z: 90.33173724641091
+  yaw: 60.0052490234375
+  pitch: 20.850139617919922
+powertools:
+  stick:
+  - lightning

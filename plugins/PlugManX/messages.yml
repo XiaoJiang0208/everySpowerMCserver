@@ -1,0 +1,86 @@
+###
+# Every time the author updated PlugMan
+# I need to rebuild this file.
+#
+# :(
+###
+
+prefix: '&bPlugMan&6&lX &f> '
+check:
+  header: '&6查询插件版本中...'
+  not-found: '&6插件未安装 - 最新版本是 "{0}".'
+  not-found-spigot: '&c无法获取插件数据 - 插件是否存在于Spigot上?'
+  out-of-date: '&c当前版本 (&4{0}&c) 与最新版本 (&2{1}&c) 不匹配.'
+  out-of-date-player: '&c版本过旧 (已安装的版本 -> 最新版本): {0}'
+  up-to-date: '&6插件使用的是最新版本 "{0}".'
+  up-to-date-player: '&a最新版 (已安装): {0}'
+  file-done: '&6文件转储完成: {0}'
+  unknown: '&c未知版本.'
+  unknown-player: '&c未知版本 (已安装): {0}'
+  not-available: '&c{0} 的版本信息不可用.'
+disable:
+  all: '&6所有插件已卸载(当然PlugMan本体是不会被卸载啦).'
+  already-disabled: '&c{0}已经被卸载了! 请不要重新卸载qaq.'
+  disabled: '&6{0} 卸载完成.'
+dump:
+  dumped: '&6插件转储到 {0}.'
+  error: '&c无法转储到文件.'
+enable:
+  all: '&6所有的插件都完成载入啦!'
+  already-enabled: '&c{0} 已经载入了呢.'
+  enabled: '&6成功加载插件 {0}.'
+error:
+  ignored: '&cPlugman无权对此插件进行更改.'
+  invalid-plugin: '&c这不是一个有效的插件哦.'
+  no-permission: '&c你是没有权限干这个哦.'
+  specify-plugin: '&c你是想让我载入空气吗?'
+  specify-command: '&c你是想让我查看空气吗?'
+  usage:
+    command: '&7- &6指令列表: &7{0}'
+    description: '&7- &6描述: &7{0}'
+    usage: '&7- &6用法: &7{0}'
+help:
+  header: '&7------------- [&bPlugManX &7- &62.3.0&7]&7--------------'
+  help: '&7- &a/plugman help &f- &7显示帮助界面.'
+  list: '&7- &a/plugman list [-v] &f- &7列出所有已安装的插件(-v 可以列出版本).'
+  dump: '&7- &a/plugman dump &f- &7将插件列表和版本生成到txt文件中.'
+  info: '&7- &a/plugman info <插件名> &f- &7查看插件信息(作者，版本号等).'
+  usage: '&7- &a/plugman usage <插件名> &f- &7列出插件的所有命令.'
+  lookup: '&7- &a/plugman lookup <指令> &f- &7看看是哪个插件生成了这个命令.'
+  enable: '&7- &a/plugman enable <插件名|all> &f- &7启用指定插件或全部插件.'
+  disable: '&7- &a/plugman disable <插件名|all> &f- &7禁用指定插件或全部插件.'
+  restart: '&7- &a/plugman restart <插件名|all> &f- &7重新启用指定插件或全部插件(就相当于把这个插件禁用然后再启用).'
+  load: '&7- &a/plugman load <插件名> &f- &7载入一个插件.'
+  reload: '&7- &a/plugman reload <插件名|all> &f- &7重载指定插件或全部插件.'
+  unload: '&7- &a/plugman unload <插件名> &f- &7卸载一个插件.'
+  check: '&7- &a/plugman check <插件名|all> [-f] &f- &7检查指定插件或全部插件的最新版本.'
+info:
+  header: '插件信息: {0}'
+  version: '&7- 版本: &a{0}'
+  authors: '&7- 作者: &a{0}'
+  status: '&7- 状态: {0}'
+  depends: '&7- 前置: {0}'
+  softdepends: '&7- 软前置: &a{0}'
+list:
+  list: '&9插件 ({0}): {1}'
+load:
+  already-loaded: '&c插件 {0} 已经被载入了哦.'
+  cannot-find: '&c找不到文件，无法搜索描述.'
+  invalid-description: '&c该插件的说明无效QAQ.'
+  invalid-plugin: '&c这不是一个有效的插件哦.'
+  loaded: '&6成功的载入了插件 {0}.'
+  plugin-dir: '&c找不到插件目录.'
+lookup:
+  found: '&6指令/{0} 被 {1} 所用.'
+  not-found: '&c指令 "/{0}" 并不是任何一种插件所生成的哦'
+reload:
+  all: '&6全部插件重载啦.'
+  reloaded: '&6成功的重载了 {0}.'
+restart:
+  all: '&9全部插件重启啦.'
+  restarted: '&9成功的重启了 {0}.'
+unload:
+  failed: '&c卸载插件 {0} 失败了QAQ.'
+  unloaded: '&6成功的卸载了 {0}.'
+usage:
+  usage: '&6指令: &7{0}'

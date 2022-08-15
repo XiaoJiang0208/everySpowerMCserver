@@ -1,0 +1,394 @@
+Version: 1
+Seed: 1557285038145695231
+Messages:
+  1:
+    LeaveMessage: 欢迎下次光临%residence.
+    EnterMessage: 欢迎%player来到%residence,主人%owner.
+  2:
+    LeaveMessage: 欢迎下次光临%residence.
+    EnterMessage: 欢迎%player来到%residence,主人是%owner.
+  3:
+    LeaveMessage: 欢迎下次光临%residence.
+    EnterMessage: 欢迎%player来到%residence,主任%owner.
+  4:
+    LeaveMessage: Now leaving %residence.
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+Flags:
+  1:
+    container: true
+    move: true
+    harvest: true
+    shear: true
+    use: true
+    destroy: true
+    animalkilling: true
+    beacon: true
+    mobkilling: true
+    build: true
+    chat: true
+    tp: true
+    leash: true
+  2:
+    container: true
+    ignite: true
+    move: true
+    harvest: true
+    shear: true
+    use: true
+    destroy: true
+    animalkilling: true
+    trade: true
+    mobkilling: true
+    build: true
+    vehicledestroy: true
+    leash: true
+  3:
+    container: false
+    ignite: false
+    harvest: false
+    shear: false
+    firespread: false
+    use: false
+    destroy: false
+    pvp: false
+    animalkilling: false
+    hook: true
+    build: false
+    explode: false
+    vehicledestroy: false
+    tnt: false
+    leash: false
+    pistonprotection: true
+    tp: false
+    creeper: false
+  4:
+    move: true
+    beacon: true
+    mobkilling: true
+    tp: true
+    chat: true
+  5:
+    container: false
+    ignite: false
+    harvest: false
+    shear: false
+    firespread: false
+    use: false
+    destroy: false
+    pvp: false
+    animalkilling: false
+    hook: false
+    build: false
+    explode: false
+    enchant: true
+    vehicledestroy: false
+    tnt: false
+    leash: false
+    pistonprotection: true
+    tp: true
+    creeper: false
+  6:
+    container: false
+    ignite: false
+    harvest: false
+    shear: false
+    nanimals: false
+    firespread: false
+    use: false
+    destroy: false
+    pvp: true
+    animalkilling: false
+    hook: false
+    build: false
+    explode: false
+    cmonsters: false
+    vehicledestroy: false
+    tnt: false
+    leash: false
+    pistonprotection: true
+    tp: true
+    nmonsters: false
+    creeper: false
+  7:
+    container: false
+    ignite: false
+    harvest: false
+    shear: false
+    firespread: false
+    use: false
+    destroy: false
+    pvp: false
+    animalkilling: false
+    hook: false
+    build: false
+    explode: false
+    vehicledestroy: false
+    tnt: false
+    leash: false
+    pistonprotection: true
+    tp: false
+    creeper: false
+  8:
+    container: false
+    ignite: false
+    harvest: false
+    move: true
+    shear: false
+    firespread: false
+    use: false
+    destroy: false
+    pvp: false
+    animalkilling: false
+    hook: false
+    build: false
+    explode: false
+    vehicledestroy: false
+    tnt: false
+    leash: false
+    pistonprotection: true
+    tp: false
+    creeper: false
+  9:
+    container: false
+    ignite: false
+    harvest: false
+    shear: false
+    firespread: false
+    use: false
+    destroy: false
+    pvp: false
+    title: false
+    animalkilling: false
+    hook: false
+    build: false
+    explode: false
+    vehicledestroy: false
+    tnt: false
+    leash: false
+    pistonprotection: true
+    tp: false
+    creeper: false
+  10:
+    container: false
+    bed: true
+    ignite: false
+    waterflow: true
+    door: true
+    egg: false
+    decay: false
+    healing: true
+    hook: false
+    keepinv: true
+    explode: false
+    vehicledestroy: false
+    trample: false
+    animals: false
+    nmonsters: false
+    flow: true
+    witherdamage: false
+    firespread: false
+    destroy: false
+    monsters: true
+    pvp: false
+    lever: true
+    pressure: true
+    brew: false
+    nomobs: false
+    feed: true
+    elytra: true
+    witherspawn: false
+    tnt: false
+    pistonprotection: false
+    creeper: false
+    anvil: true
+    title: false
+    animalkilling: true
+    phantomspawn: false
+    button: true
+    nofly: true
+    falldamage: false
+    cmonsters: false
+    witherdestruction: false
+    copper: false
+    table: true
+    fireball: false
+    burn: true
+    harvest: false
+    move: true
+    shear: false
+    nanimals: false
+    anvilbreak: false
+    enderpearl: true
+    overridepvp: true
+    mobkilling: true
+    build: false
+    enchant: true
+    fallinprotection: false
+    anchor: false
+    tp: true
+    leash: false
+    smonsters: false
+Residences:
+  deHome:
+    TPLoc: -5.5:86.1:80.5:0.0:0.0
+    Messages: 1
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        GlossyShark: 1
+        delovely: 2
+      AreaFlags: 3
+      OwnerUUID: 092284e3-ca1c-3cab-ac1c-4f4070f710a3
+      OwnerLastKnownName: delovely
+    CreatedOn: 1659621073041
+    MainResidence: true
+    Areas:
+      main: -23:85:80:-7:94:101
+  gout:
+    TPLoc: 60.5:76.0:-92.5:0.0:0.0
+    Messages: 2
+    BlockSellPrice: 0.25
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        Sleepinglnsect: 1
+        Valge: 1
+        longziyang: 1
+        TestMan: 1
+        XiaoJiang0208: 4
+        gou: 2
+        luoqishan: 1
+      AreaFlags: 5
+      OwnerUUID: cc6b327a-8e72-3a6d-81e1-8962ecb75607
+      OwnerLastKnownName: gou
+    CreatedOn: 1659622919763
+    Areas:
+      main: 36:60:-112:83:80:-75
+  homi:
+    TPLoc: 14.5:64.0:-88.5:0.0:0.0
+    Messages: 3
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        GlossyShark: 2
+        longziyang: 1
+        SleepingInsect: 1
+        gou: 1
+        luoqishan: 1
+      AreaFlags: 6
+      OwnerUUID: f91b4bf8-5aed-3b4e-b9f9-a00743976f96
+      OwnerLastKnownName: GlossyShark
+    CreatedOn: 1659494626742
+    Areas:
+      main: -7:59:-127:35:94:-52
+  longyi:
+    Messages: 1
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        longyiK: 2
+      AreaFlags: 7
+      OwnerUUID: c026d55a-f749-3bf8-b10b-865f63149373
+      OwnerLastKnownName: longyiK
+    CreatedOn: 1659883061252
+    Areas:
+      main: 66:68:-61:99:78:-32
+  luoqishan:
+    Messages: 1
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        GlossyShark: 2
+      AreaFlags: 7
+      OwnerUUID: f91b4bf8-5aed-3b4e-b9f9-a00743976f96
+      OwnerLastKnownName: GlossyShark
+    CreatedOn: 1660126557636
+    Areas:
+      main: -58:95:179:-53:124:195
+  raider:
+    TPLoc: -220.5:87.0:140.5:0.0:0.0
+    Messages: 1
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        GlossyShark: 2
+      AreaFlags: 7
+      OwnerUUID: f91b4bf8-5aed-3b4e-b9f9-a00743976f96
+      OwnerLastKnownName: GlossyShark
+    CreatedOn: 1660126524466
+    Areas:
+      main: -222:70:125:-220:92:155
+  test:
+    Messages: 1
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        XiaoJiang0208: 2
+      AreaFlags: 7
+      OwnerUUID: 86642dfe-61b0-3d01-b9f8-4809f22948fe
+      OwnerLastKnownName: XiaoJiang0208
+    CreatedOn: 1660381277969
+    Areas:
+      main: 78:68:20:88:75:29
+  thankyoubuquandixia:
+    TPLoc: 186.5:63.0:475.5:0.0:0.0
+    Messages: 2
+    BlockSellPrice: 0.25
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        longziyang: 2
+      AreaFlags: 7
+      OwnerUUID: 4b5ef2db-d2df-3158-a67a-75fb486bc830
+      OwnerLastKnownName: longziyang
+    CreatedOn: 1660297592755
+    Areas:
+      main: 181:60:463:190:69:486
+  thankyoubuquandixia1:
+    TPLoc: 170.5:65.0:476.5:0.0:0.0
+    Messages: 2
+    BlockSellPrice: 0.25
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        longziyang: 2
+      AreaFlags: 8
+      OwnerUUID: 4b5ef2db-d2df-3158-a67a-75fb486bc830
+      OwnerLastKnownName: longziyang
+    CreatedOn: 1660297733875
+    Areas:
+      main: 159:59:465:180:73:486
+  xiaoqiao:
+    Messages: 1
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        GlossyShark: 2
+      AreaFlags: 9
+      OwnerUUID: f91b4bf8-5aed-3b4e-b9f9-a00743976f96
+      OwnerLastKnownName: GlossyShark
+    CreatedOn: 1659677621106
+    Areas:
+      main: -25:61:4:7:72:16
+  zhucheng:
+    TPLoc: -116.5:179.0:88.5:0.0:0.0
+    Messages: 4
+    BlockSellPrice: 0.3
+    ChannelColor: Dark_Purple
+    Permissions:
+      PlayerFlags:
+        XiaoJiang0208: 2
+        luoqishan: 1
+      AreaFlags: 10
+      OwnerUUID: 00000000-0000-0000-0000-000000000000
+      OwnerLastKnownName: Server_Land
+    CreatedOn: 1659407024821
+    Areas:
+      main: -162:-64:45:-73:319:131

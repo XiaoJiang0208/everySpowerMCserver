@@ -1,0 +1,6 @@
+# ForcePack uses Languagy. Language files will automatically update. Learn more here: https://fortitude.islandearth.net/en/languagy
+declined: "&c你必须接受资源包才能在我们的服务器上玩。"
+accepted: "&a感谢您接受我们的资源包!你现在可以游玩了。"
+download_failed: "&c资源包下载失败。请重新连接并重试。"
+prompt_text: "&e请接受我们的资源包，以改善您的服务器体验!" # Only on 1.18+ (1.17 does not have API)
+reloading: "&a由于更新而重新应用资源包!"

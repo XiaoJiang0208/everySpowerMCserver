@@ -1,0 +1,52 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.254.164.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1660368896008
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660369856727
+  login: 1660368798223
+money: '0.0'
+last-account-name: Sleepinglnsect
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 62.46196025289424
+  y: 81.7821449559578
+  z: 434.0424844697296
+  yaw: 147.57595825195312
+  pitch: 6.299901962280273
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -101.98595194390698
+  y: 179.5
+  z: 61.66819062212519
+  yaw: -91.95068359375
+  pitch: 81.30016326904297
+homes:
+  home:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 59.5
+    y: 72.0
+    z: -94.5
+    yaw: -60.59955978393555
+    pitch: 0.0
+powertools:
+  emerald:
+  - lightning delovely
+  brick:
+  - lightning testman

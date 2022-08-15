@@ -1,0 +1,18 @@
+BlessingSkinSync v1.8-SNAPSHOT
+BlueMap v1.7.3
+CMILib v1.2.3.2
+CustomSprays v1.5.5
+Essentials v2.19.4
+EssentialsChat v2.19.4
+EssentialsSpawn v2.19.4
+GroupManager v2.9 (Phoenix)
+PlaceholderAPI v2.10.5
+PlugManX v2.3.0
+Prism v3.5.0-CN-b1
+ProtocolLib v5.0.0-SNAPSHOT-b587
+Residence v5.0.1.7
+SkinsRestorer v14.2.2
+spark v1.9.29
+Vault v1.7.3-b131
+VentureChat v3.4.1_1.19_patch
+WorldEdit v7.2.11+c43a877

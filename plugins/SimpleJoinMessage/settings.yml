@@ -1,0 +1,43 @@
+# ------------------------------------------------------------------------
+#  
+#    _____ _                 _           _       _       __  __                                
+#   / ____(_)               | |         | |     (_)     |  \/  |                               
+#  | (___  _ _ __ ___  _ __ | | ___     | | ___  _ _ __ | \  / | ___  ___ ___  __ _  __ _  ___ 
+#   \___ \| | '_ ` _ \| '_ \| |/ _ \_   | |/ _ \| | '_ \| |\/| |/ _ \/ __/ __|/ _` |/ _` |/ _ \
+#   ____) | | | | | | | |_) | |  __/ |__| | (_) | | | | | |  | |  __/\__ \__ \ (_| | (_| |  __/
+#  |_____/|_|_| |_| |_| .__/|_|\___|\____/ \___/|_|_| |_|_|  |_|\___||___/___/\__,_|\__, |\___|
+#                     | |                                                            __/ |     
+#                     |_|                                                           |___/      
+#  
+#                            SimpleJoinMessage main configuration - settings.yml
+#  
+# ------------------------------------------------------------------------
+#  
+#  All the Message format only supported MiniMessage, you can read more about format at: https://docs.adventure.kyori.net/minimessage/format.html
+#  MiniMessage also have web interface available: https://webui.adventure.kyori.net/
+#  
+#  PlaceholderAPI are also supported.
+#  
+# ------------------------------------------------------------------------
+#  
+# https://go.happyareabean.cc/sjm
+#  
+# ------------------------------------------------------------------------
+
+# The message to be send when player join the server
+#  
+# Placeholders available:
+#    {player} - Player name
+joinMessage:
+- ''
+- <b><gradient:#f7ff00:#db36a4>Hello</gradient> <color:#3cff00>{player}</color>! <gradient:#f7ff00:#db36a4>欢迎来到</gradient>
+  <color:#00d9ff>everySpower</color>!</b>
+- '现在有 <yellow>%server_online%</yellow> 个玩家! <b><color:#54585c>|</color></b> Time:
+  <color:#ffac05>%server_time_dd/MM/yyyy hh:mm:ss%</color>'
+- ''
+- <b><color:#5865f2><click:open_url:'https://kook.top/Sqkz5k'><hover:show_text:'<color:#87eb00>点击进入</color>'><blue>点击加入我们的<b><color:#87eb00>KOOK(原"开黑啦")</color></b>频道!</hover></click></color></b>
+- ''
+
+# Whether the message should be delayed? (In ticks)
+# Change it to 0 to disable delay.
+delayTicks: 20

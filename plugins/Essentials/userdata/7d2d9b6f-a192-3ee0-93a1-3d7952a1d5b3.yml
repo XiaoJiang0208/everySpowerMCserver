@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1659689353502
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659702327797
+  login: 1659702302938
+money: '10000'
+last-account-name: Delovely
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -78.5
+  y: 102.0
+  z: 54.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -80.80322193856989
+  y: 177.0
+  z: 54.901995172461014
+  yaw: 74.340576171875
+  pitch: 9.710436820983887
+homes:
+  home:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: -11.191099679460219
+    y: 89.0
+    z: 94.3773441771117
+    yaw: -0.6307945847511292
+    pitch: 21.150327682495117
+  tushuguan:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 104.8866587889126
+    y: 64.0
+    z: 1137.838445936225
+    yaw: -164.56295776367188
+    pitch: 27.29936981201172
+  shiyun3:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: -1246.2539729553032
+    y: 76.5
+    z: -444.9068244882294
+    yaw: 71.07110595703125
+    pitch: 34.34976577758789

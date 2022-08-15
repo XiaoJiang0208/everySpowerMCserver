@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659665717789
+  login: 1659665697429
+money: '0'
+last-account-name: shuichongshijb
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -82.5
+  y: 105.0
+  z: 62.5
+  yaw: 0.0
+  pitch: 0.0
+powertools:
+  stone_sword:
+  - m SleepingInsect 你就是歌姬吧
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -79.86250001192093
+  y: 177.0
+  z: 55.14335756719578
+  yaw: 88.3405990600586
+  pitch: 80.5001220703125

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.197.70.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1660285140035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1660285686972
+  login: 1660285025002
+money: '400.0'
+last-account-name: 2016ECCC
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 97.22578688950561
+  y: 68.0
+  z: -50.52428300685712
+  yaw: 30.83978271484375
+  pitch: 10.80804443359375
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: 185.62362506988273
+  y: 63.0
+  z: 478.00990430702313
+  yaw: -143.284423828125
+  pitch: 39.800655364990234
+homes:
+  jiaoyi:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 103.78569812123142
+    y: 70.0
+    z: 1156.6929654325158
+    yaw: -21.9971923828125
+    pitch: 36.29764175415039
+  jia:
+    world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+    world-name: world
+    x: 185.9426911825708
+    y: 63.0
+    z: 488.0724166668019
+    yaw: 42.899574279785156
+    pitch: 15.299983978271484

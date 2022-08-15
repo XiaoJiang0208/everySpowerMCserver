@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1659284518052
+  login: 1659283274934
+money: '0'
+last-account-name: luoqishan
+lastlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -109.18921011899998
+  y: 177.4952008770059
+  z: 72.44044245992703
+  yaw: 45.19303894042969
+  pitch: 29.911035537719727
+logoutlocation:
+  world: 103d1a99-6632-40eb-afbd-5c1dd7fc1110
+  world-name: world
+  x: -10.317024720897928
+  y: 68.36989856989321
+  z: 22.856989681361608
+  yaw: 177.12445068359375
+  pitch: 4.2732696533203125
